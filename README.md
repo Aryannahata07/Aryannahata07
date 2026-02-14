@@ -92,5 +92,5 @@ To build scalable AI-driven systems that bridge research and real-world impact �
 
 ---
 
-> “Build systems. Not just projects.”
+> “Always building. Always improving.”
 
