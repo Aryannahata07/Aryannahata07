@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Nahata</h1>
-<h3 align="center">🚀 Artificial Intelligence & Machine Learning Student | AI Builder | Full-Stack Developer</h3>
+<h3 align="center">🚀 AIML Student | Web Developer | AI Enthusiast</h3>
 
 ---
 
