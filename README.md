@@ -85,8 +85,8 @@ To build scalable AI-driven systems that bridge research and real-world impact �
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nahata-12b921282/)
-- 🌐 Portfolio: [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://aryan-nahata-portfolio.vercel.app/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nahata-12b921282/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://aryan-nahata-portfolio.vercel.app/)
 - [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:aryan.nahata4@gmail.com)
 - 📩 Open to collaboration & AI-focused opportunities
 
