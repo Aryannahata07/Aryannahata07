@@ -1,96 +1,89 @@
-<h1 align="center">Hi 👋, I'm Aryan Nahata</h1>
-<h3 align="center">🚀 AIML Student | Web Developer | AI Enthusiast</h3>
+<h1 align="center">Aryan Nahata</h1>
+<p align="center">
+  <b>AI/ML Engineer · Full-Stack Developer · BIT Mesra '27</b><br/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-nahata-12b921282/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
+  <a href="https://aryan-nahata-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square"/></a>
+  <a href="mailto:aryan.nahata4@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square"/></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+Building at the intersection of AI/ML and full-stack development — from training loops to shipped products. 
 
-I’m an AIML undergraduate at **BIT Mesra** passionate about building intelligent systems that solve real-world problems.  
-
-I enjoy combining **Machine Learning, Generative AI, and Full-Stack Development** to create impactful products — not just models, but complete end-to-end systems.
-
-- 🔍 Passionate about solving real-world problems through technology 
-- 🧠 Enjoy turning ideas into real, working projects
-- 🌱 Focused on building skills that create long-term impact 
-- 🚀 Always learning something new and improving my skills
+Currently a pre-final year **AI & ML student at BIT Mesra** (CGPA: 8.91).
 
 ---
 
-## 🛠️ Tech Stack
+## What I've Built
 
-### 💻 Languages
-Python • C++ • JavaScript • TypeScript • Java
+### PRISM — Physics-Aware rPPG Pipeline &nbsp;·&nbsp; [Research Intern, BIT Mesra CS Dept.] &nbsp;·&nbsp; [Live MVP](https://prism-rppg.onrender.com/)
+> Contactless heart rate estimation from video using computer vision
 
-### 🌐 Web & Backend
-React • Next.js • Node.js • Express.js • FastAPI • TailwindCSS • Firebase
-
-### 🤖 AI / ML
-NumPy • Pandas • Scikit-learn • OpenCV • Matplotlib
-
-### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • Firestore
+- Meta-learning routing across 6 physiological metrics (photon density, skin tone, motion magnitude, noise floor, texture sharpness, spectral concentration)
+- Mixture-of-Experts estimator selection — significantly reduces catastrophic failures
+- **State-of-the-Art: Global-Mix MAE of 2.45 BPM** on cross-dataset benchmarks
+- Stack: `Python` `OpenCV` `TensorFlow` `Signal Processing`
 
 ---
 
-## 🚀 Selected Projects
+### DoctorAI — Clinical Intelligence Platform &nbsp;·&nbsp; [Full-Stack Intern, ClinicFlow] &nbsp;·&nbsp; [Live MVP](https://doctor-ai-frontend-ebon.vercel.app/)
+> Real-time AI consultation engine for clinicians
 
-### ❤️ PRISM – rPPG Based Heart Rate Estimation
-Developed a physics-aware computer vision pipeline to:
-- Extract remote physiological signals from video  
-- Perform dynamic model selection (Mixture-of-Experts style)  
-- Achieve state-of-the-art MAE on cross-dataset benchmarks  
-
----
-
-### 🌙 TabStack – Smart Link Manager
-Modern dark-themed full-stack web application:
-- Login/Auth with Firebase  
-- Category-based link management  
-- Real-time Firestore updates  
-- Responsive UI built with Vite + React + TailwindCSS  
+- Architected from zero → live MVP with React, TypeScript, Java microservices
+- Real-time consultation engine via WebSockets + audio streaming for automated note generation
+- RAG chatbot for querying patient history, prescriptions & lab reports mid-consultation
+- Stack: `React` `TypeScript` `Java` `WebSockets` `RAG` 
 
 ---
 
-### 🔍 SnapSearch – AI-Powered Image Search Engine
-Built an intelligent image search system that:
-- Extracts semantic keywords using YOLO + Captioning models  
-- Embeds keywords into images  
-- Enables search based on visual semantics  
-- Integrated FastAPI backend with Firebase-based frontend  
+### BeatSync — Contactless Vital Signs Monitor &nbsp;·&nbsp; [[GitHub]](https://github.com/Tanishk-11/BeatSync) &nbsp;·&nbsp; [[Live]](https://beatsync-vx53.onrender.com/)
+> AI-powered web platform for real-time heart rate & respiratory monitoring
+
+- MTTS-CAN model fine-tuned with data augmentation → **30% accuracy improvement (MAE: 4.79 BPM)**
+- MediaPipe + OpenCV preprocessing pipeline + SciPy signal processing
+- RAG chatbot for personalized health insights
+- Dockerized microservices: `Node.js` + `FastAPI` backend
+- Stack: `Python` `TensorFlow` `OpenCV` `React` `Docker` `RAG` `FastAPI`
 
 ---
 
-### 🎬 Reel Script Generator
-Built a Streamlit + Ollama powered tool that:
-- Generates structured business-focused reel scripts  
-- Uses curated examples + local LLM inference  
-- Produces optimized short-form content frameworks  
+### TabStack — Smart Tab Management Platform &nbsp;·&nbsp; [[GitHub]](https://github.com/Aryannahata07/TabStack) &nbsp;·&nbsp; [[Live]](https://tabstack-9eea3.web.app/)
+> Cross-platform browser extension + web app for tab organization
+
+- **60% reduction in browser RAM**, 20–25% improvement in system responsiveness
+- Real-time Firestore sync across devices + Google OAuth + Email auth
+- Stack: `JavaScript` `React` `Firebase` `Vite` `TailwindCSS` `Browser Extension API`
 
 ---
 
-## 🧠 What I’m Currently Exploring
+## Core Stack
 
-- AI Agents & Tool-Using LLM Systems  
-- System Design for AI Applications  
-- Model Optimization & Efficient Inference  
-- Production-Grade ML Deployment  
-
----
-
-## 🎯 Career Goal
-
-To build scalable AI-driven systems that bridge research and real-world impact — combining strong fundamentals with product thinking.
+| Domain | Technologies |
+|---|---|
+| **AI / ML** | Python · PyTorch · TensorFlow · OpenCV · Scikit-learn · MediaPipe |
+| **Generative AI** | LLMs · RAG · LangChain · LangGraph · Transformers · Vector DBs |
+| **Full-Stack** | React · TypeScript · Node.js · Express.js · JavaScript · FastAPI · Tailwind CSS |
+| **Infra & Tools** | Docker · Firebase · MongoDB · PostgreSQL · Git · Streamlit |
 
 ---
 
-## 🤝 Let’s Connect
+## Achievements
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nahata-12b921282/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://aryan-nahata-portfolio.vercel.app/)
-- [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:aryan.nahata4@gmail.com)
-- 📩 Open to collaboration & AI-focused opportunities
+- 🏆 **LeetCode Knight** — 850+ DSA problems solved
+- 🥇 **Adobe India Hackathon 2025** — Top 4,000 / 85,000+ teams nationwide
+- 🎓 **GP Birla Scholarship** — BIT Mesra, awarded for academic excellence (MO24)
+- 📄 **Research Intern** — Dept. of CS, BIT Mesra under Dr. Jamimamul Bakas
 
 ---
 
-> “Always building. Always improving.”
+## Currently Exploring
 
+`AI Agents` &nbsp; `Tool-Using LLM Systems` &nbsp; `System Design for AI` &nbsp; `Efficient Inference & Model Optimization`
+
+---
+
+<p align="center"><i>Open to AI/ML and SDE roles — internship or full-time</i><br/>
+📩 aryan.nahata4@gmail.com</p>
