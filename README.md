@@ -11,51 +11,51 @@
 
 ---
 
-Building at the intersection of AI/ML and full-stack development — from training loops to shipped products. 
+Building at the intersection of AI/ML and full-stack development — from research prototypes to production-ready products.
 
-Currently a pre-final year **AI & ML student at BIT Mesra** (CGPA: 8.91).
+Currently a final-year **AI & ML student at BIT Mesra** (CGPA: **8.91**).
 
 ---
 
 ## What I've Built
 
-### PRISM — Physics-Aware rPPG Pipeline &nbsp;·&nbsp; [Research Intern, BIT Mesra CS Dept.] &nbsp;·&nbsp; [Live MVP](https://prism-rppg.onrender.com/)
-> Contactless heart rate estimation from video using computer vision
+### PRISM — Physics-Robust Intelligent Selection Mechanism &nbsp;·&nbsp; Research Intern, BIT Mesra CS Dept.
+> Physics-aware computer vision framework for robust contactless heart-rate estimation
 
-- Meta-learning routing across 6 physiological metrics (photon density, skin tone, motion magnitude, noise floor, texture sharpness, spectral concentration)
-- Mixture-of-Experts estimator selection — significantly reduces catastrophic failures
-- **State-of-the-Art: Global-Mix MAE of 2.45 BPM** on cross-dataset benchmarks
-- Stack: `Python` `OpenCV` `TensorFlow` `Signal Processing`
-
----
-
-### DoctorAI — Clinical Intelligence Platform &nbsp;·&nbsp; [Full-Stack Intern, ClinicFlow] &nbsp;·&nbsp; [Live MVP](https://doctor-ai-frontend-ebon.vercel.app/)
-> Real-time AI consultation engine for clinicians
-
-- Architected from zero → live MVP with React, TypeScript, Java microservices
-- Real-time consultation engine via WebSockets + audio streaming for automated note generation
-- RAG chatbot for querying patient history, prescriptions & lab reports mid-consultation
-- Stack: `React` `TypeScript` `Java` `WebSockets` `RAG` 
+- Designed a runtime-adaptive meta-learning router driven by six physiological quality metrics for robust rPPG signal estimation
+- Mixture-of-Experts framework dynamically selects the optimal estimator, minimizing catastrophic failures across challenging lighting and motion conditions
+- **State-of-the-art performance:** Global-Mix **MAE of 2.45 BPM** on cross-dataset evaluation
+- Stack: `Python` `TensorFlow` `OpenCV` `Signal Processing` `Computer Vision`
 
 ---
 
-### BeatSync — Contactless Vital Signs Monitor &nbsp;·&nbsp; [[GitHub]](https://github.com/Tanishk-11/BeatSync) &nbsp;·&nbsp; [[Live]](https://beatsync-vx53.onrender.com/)
-> AI-powered web platform for real-time heart rate & respiratory monitoring
+### RecallOS — AI-Native Knowledge Management Platform &nbsp;·&nbsp; [[GitHub]](https://github.com/Aryannahata07/RecallOS) &nbsp;·&nbsp; [[Live]](https://recall-os-web.vercel.app/)
+> AI-powered second brain that automatically captures, structures, and reinforces knowledge through spaced repetition
 
-- MTTS-CAN model fine-tuned with data augmentation → **30% accuracy improvement (MAE: 4.79 BPM)**
-- MediaPipe + OpenCV preprocessing pipeline + SciPy signal processing
-- RAG chatbot for personalized health insights
-- Dockerized microservices: `Node.js` + `FastAPI` backend
-- Stack: `Python` `TensorFlow` `OpenCV` `React` `Docker` `RAG` `FastAPI`
+- Browser extension + Next.js platform that transforms web content into structured knowledge artifacts
+- TypeScript implementation of the **FSRS-4.5** spaced repetition algorithm for adaptive review scheduling
+- Semantic deduplication using **Gemini embeddings** and **Typesense** vector search to merge similar concepts before persistence
+- Stack: `Next.js` `TypeScript` `BullMQ` `Redis` `PostgreSQL` `Prisma` `Typesense` `Gemini`
+
+---
+
+### DoctorAI — Clinical Intelligence Platform &nbsp;·&nbsp; Full-Stack Intern, ClinicFlow &nbsp;·&nbsp; [Live MVP](https://doctor-ai-frontend-ebon.vercel.app/)
+> Real-time AI consultation platform for clinicians
+
+- Architected using React, TypeScript, and Java microservices with real-time WebSocket audio streaming
+- Automatically extracts and populates structured clinical notes during patient consultations
+- Integrated a RAG chatbot for querying patient history, prescriptions, and clinical records
+- Stack: `React` `TypeScript` `Java` `WebSockets` `RAG`
 
 ---
 
 ### TabStack — Smart Tab Management Platform &nbsp;·&nbsp; [[GitHub]](https://github.com/Aryannahata07/TabStack) &nbsp;·&nbsp; [[Live]](https://tabstack-9eea3.web.app/)
-> Cross-platform browser extension + web app for tab organization
+> Cross-platform browser extension and web application for intelligent tab organization
 
-- **60% reduction in browser RAM**, 20–25% improvement in system responsiveness
-- Real-time Firestore sync across devices + Google OAuth + Email auth
-- Stack: `JavaScript` `React` `Firebase` `Vite` `TailwindCSS` `Browser Extension API`
+- Reduced browser RAM consumption by **60%** while improving system responsiveness by **20–25%**
+- Real-time synchronization across devices using Firebase Firestore with secure Google OAuth and Email Authentication
+- Responsive React application with persistent tab management, CRUD operations, and customizable sorting
+- Stack: `React` `JavaScript` `Firebase` `Vite` `Tailwind CSS` `Manifest V3`
 
 ---
 
@@ -64,26 +64,26 @@ Currently a pre-final year **AI & ML student at BIT Mesra** (CGPA: 8.91).
 | Domain | Technologies |
 |---|---|
 | **AI / ML** | Python · PyTorch · TensorFlow · OpenCV · Scikit-learn · MediaPipe |
-| **Generative AI** | LLMs · RAG · LangChain · LangGraph · Transformers · Vector DBs |
-| **Full-Stack** | React · TypeScript · Node.js · Express.js · JavaScript · FastAPI · Tailwind CSS |
-| **Infra & Tools** | Docker · Firebase · MongoDB · PostgreSQL · Git · Streamlit |
+| **Generative AI** | LLMs · RAG · LangChain · LangGraph · Transformers · Vector Databases |
+| **Full-Stack** | React · TypeScript · Node.js · Express.js · Java · FastAPI · Tailwind CSS |
+| **Infra & Tools** | Docker · PostgreSQL · MongoDB · Redis · Firebase · Git · AWS · BullMQ|
 
 ---
 
 ## Achievements
 
-- 🏆 **LeetCode Knight** — 850+ DSA problems solved
-- 🥇 **Adobe India Hackathon 2025** — Top 4,000 / 85,000+ teams nationwide
-- 🎓 **GP Birla Scholarship** — BIT Mesra, awarded for academic excellence (MO24)
-- 📄 **Research Intern** — Dept. of CS, BIT Mesra under Dr. Jamimamul Bakas
+- 🏆 **LeetCode Knight** — **1000+** DSA problems solved
+- 🥇 **Adobe India Hackathon 2025** — Top **4,000** out of **85,000+** teams nationwide
+- 🎓 **GP Birla Scholarship** — BIT Mesra (2024) for academic excellence
+- 📄 **Research Intern** — Department of Computer Science, BIT Mesra
 
 ---
 
 ## Currently Exploring
 
-`AI Agents` &nbsp; `Tool-Using LLM Systems` &nbsp; `System Design for AI` &nbsp; `Efficient Inference & Model Optimization`
+`AI Agents` · `Tool-Using LLM Systems` · `System Design` · `Distributed Systems` · `Efficient Inference`
 
 ---
 
-<p align="center"><i>Open to AI/ML and SDE roles — internship or full-time</i><br/>
-📩 aryan.nahata4@gmail.com</p>
+<p align="center"><i>Open to Software Engineering, AI/ML, and Applied AI roles</i><br/>
+📩 <b>aryan.nahata4@gmail.com</b></p>
